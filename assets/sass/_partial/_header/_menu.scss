@@ -16,8 +16,11 @@
     font-family: $global-serif-font-family;
 
     .active {
+      a {
+          color: $theme-color;
+      }
       font-weight: bold;
-      border-bottom: 2px solid;
+      border-bottom: 2px solid $theme-color;
     }
 
     @import "./menu-item";
