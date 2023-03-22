@@ -1,11 +1,11 @@
 ---
-title: "Math Preview"
+title: "Demo: Math"
 author: "Murray Bourne"
 date: 2019-03-04T16:01:23+08:00
 lastmod: 2019-03-05T16:01:23+08:00
 draft: false
 tags: ["preview", "math", "tag-6"]
-categories: ["docs", "math", "index"]
+categories: ["demo", "math", "index"]
 
 # mathjax: true
 
@@ -14,16 +14,16 @@ categories: ["docs", "math", "index"]
 katex: true
 
 # Use Mmark
-# See https://gohugo.io/content-management/formats/#mmark
+# See https://github.com/mmarkdown/mmark
 markup: mmark
 
 menu:
   main:
-    parent: "docs"
+    parent: "demo"
     weight: 5
 ---
 
-[KaTeX and MathJax Comparison Demo, currently processed as KaTex](https://www.intmath.com/cg5/katex-mathjax-comparison.php)
+[KaTeX and MathJax Comparison Demo, currently processed as KaTeX](https://www.intmath.com/cg5/katex-mathjax-comparison.php)
 
 <!--more-->
 
